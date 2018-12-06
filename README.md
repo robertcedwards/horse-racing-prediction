@@ -22,4 +22,4 @@
 
 [https://unanimous.ai/](https://unanimous.ai/)
 
-[https://alphaimpact.jp/](Alpha Impact)
+[https://alphaimpact.jp/] (Alpha Impact)
