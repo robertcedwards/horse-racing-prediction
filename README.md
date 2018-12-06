@@ -21,3 +21,5 @@
 [https://www.sciencedirect.com/science/article/pii/S2210832717301485](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
 
 [https://unanimous.ai/](https://unanimous.ai/)
+
+[https://alphaimpact.jp/](Alpha Impact)
